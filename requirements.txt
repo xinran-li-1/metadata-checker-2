@@ -1,2 +1,5 @@
 streamlit
 pandas
+pdfminer.six
+PyPDF2
+matplotlib
